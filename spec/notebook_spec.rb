@@ -1,5 +1,4 @@
 require 'notebook'
-require 'note'
 
 describe Notebook do 
   describe '#add_note' do

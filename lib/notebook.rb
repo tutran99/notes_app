@@ -1,5 +1,3 @@
-require_relative 'note'
-
 class Notebook
   
   def initialize
@@ -17,4 +15,7 @@ class Notebook
   
   def pick_note
   end
+end
+
+class Note
 end
